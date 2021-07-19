@@ -1,0 +1,57 @@
+/*reset css*/
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+.main-home{
+	background-color: #DEE0E0;
+	width: 1463px;
+	right: 673px;
+}
+.home-hello{
+	margin-left: 100px;
+	margin-top: 330px;
+	width: 522px;
+	right: 145px;
+	float: left;
+}
+.logo-fb{
+	width: 100%;
+}
+.title-fb{
+	font-family: Arial;
+	font-size: 30px;
+	padding-left: 26px;
+}
+.from-login{
+	box-shadow: 1px 1px 1px 5px #AAAA;
+	border-radius: 7px;
+	background-color: #FFFFFF;
+	margin-top: 290px;
+	width: 647px;
+	float: right;
+	border: solid 1px black;
+}
+
+.button-login{
+	margin: 10px;
+}
+.button{
+	border-radius: 7px;
+	width: 93%;
+	margin: 20px;
+	font-size: 35px;
+	font-family: Arial;
+	border: solid 2px #DDDFE2;
+}
+#enter{
+	color: white;
+	background-color: #1877F2;
+	text-align: center;
+	font-size: 45px;
+	/*width: 100%;*/
+}
+#enter:hover{
+	color: #004DAF;
+}
